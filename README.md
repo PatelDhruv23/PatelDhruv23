@@ -3,6 +3,7 @@
 ![Banner](https://github.com/PatelDhruv23/PatelDhruv23/blob/main/assets/banner.gif)  
 <!-- You can add a custom banner or keep this line -->
 
+
 ## 🚀 Aspiring Web Developer  
 Passionate about building modern, user-friendly, and interactive web applications.  
 Exploring **Full-Stack Development, Data Science, and Cloud Computing** while contributing to open-source projects.  
