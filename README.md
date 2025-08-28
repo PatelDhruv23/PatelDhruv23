@@ -36,7 +36,8 @@
 ### 📊 GitHub Stats
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatelDhruv23&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelDhruv23&layout=compact&theme=radical)
-![Dhruv's Streak](https://streak-stats.demolab.com?user=PatelDhruv23&theme=radical&hide_border=false)
+![Dhruv's Streak](https://github-readme-streak-stats-eight.vercel.app?user=PatelDhruv23&theme=radical&hide_border=false)
+
 
 ---
 ### ​ GitHub Activity
