@@ -1,5 +1,8 @@
 <!-- Typing animation banner -->
-![Dhruv Patel](https://img.shields.io/badge/Hi%2C%20I'm%20Dhruv%20Patel-blue?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Dhruv%20Patel-82c8e5?style=for-the-badge">
+</p>
+
 <p align="center">
   <a href="https://github.com/PatelDhruv23">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Web+Developer+%F0%9F%9A%80;Crafting+modern%2C+scalable%2C+responsive+web+apps+%F0%9F%8C%90;Clean+UI%2C+performant+code%2C+happy+users+%E2%9C%A8" alt="Typing SVG" />
