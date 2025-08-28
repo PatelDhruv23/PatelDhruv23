@@ -39,10 +39,17 @@
 ![Dhruv's Streak](https://streak-stats.demolab.com?user=PatelDhruv23&theme=radical&hide_border=false)
 
 ---
+### ​ GitHub Activity
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=PatelDhruv23&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+<!-- Stats -->
+![](https://github-readme-stats.vercel.app/api?username=PatelDhruv23&show_icons=true&theme=radical)
 
----
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelDhruv23&layout=compact&theme=radical)
 
-⭐️ *"Code. Build. Innovate."*
+<!-- Contribution Streak (working endpoint) -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=PatelDhruv23&theme=radical)](https://git.io/streak-stats)
+
+<!-- Summary Card (in place of trophies) -->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatelDhruv23&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
