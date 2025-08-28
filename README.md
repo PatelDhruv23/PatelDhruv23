@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# 👋 Hi, I'm Dhruv Patel  
+ 
 **Web Developer 🚀 Crafting modern, scalable, and responsive web apps 🌐**
 
 ---
