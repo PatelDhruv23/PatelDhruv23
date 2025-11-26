@@ -11,6 +11,7 @@
 
  
 **Web Developer 🚀 Crafting modern, scalable, and responsive web apps 🌐**
+**Aspiring Data Scientist 🤖 Solving real-world problems using data, ML, and analytics 📊**
 
 ---
 
@@ -38,7 +39,6 @@
 ---
 
 ### ​ GitHub Activity
-
 <!-- Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=PatelDhruv23&show_icons=true&theme=radical)
 
