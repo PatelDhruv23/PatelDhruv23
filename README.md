@@ -28,7 +28,7 @@
 ### 🛠️ Skills & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mongodb,python,github,vscode" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
+ <img height="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 </p>
 
 
