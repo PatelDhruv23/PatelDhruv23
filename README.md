@@ -53,3 +53,6 @@
 <!-- Summary Card (in place of trophies) -->
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatelDhruv23&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PatelDhruv23&style=for-the-badge&color=blue" alt="profile views" />
+</p>
