@@ -4,14 +4,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PatelDhruv23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Web+Developer+%F0%9F%9A%80;Crafting+modern%2C+scalable%2C+responsive+web+apps+%F0%9F%8C%90;Clean+UI%2C+performant+code%2C+happy+users+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+ <a href="https://github.com/PatelDhruv23">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Web+Developer+%F0%9F%9A%80;Crafting+modern%2C+scalable%2C+responsive+web+apps+%F0%9F%8C%90;Data+Science+Enthusiast+%F0%9F%A7%AA;Turning+data+into+insights+and+predictions+%F0%9F%93%88;Data+Analyst+%F0%9F%94%8D;Transforming+complex+data+into+clear+decisions+%F0%9F%93%8A" 
+    alt="Typing SVG" 
+  />
+</a>
 </p>
 
  
-**Web Developer 🚀 Crafting modern, scalable, and responsive web apps 🌐**
-**Aspiring Data Scientist 🤖 Solving real-world problems using data, ML, and analytics 📊**
+**Web Developer & Data Science Learner 🚀 Developing modern web applications and gaining skills in data analysis and machine learning 📊**
 
 ---
 
