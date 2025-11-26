@@ -24,7 +24,7 @@
 
 ### 🛠️ Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,java,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mongodb,python,github,vscode" />
 </p>
 
 ---
