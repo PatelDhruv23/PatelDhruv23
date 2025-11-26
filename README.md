@@ -27,8 +27,10 @@
 
 ### 🛠️ Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,mongodb,python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mongodb,python,github,vscode" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
 </p>
+
 
 ---
 
